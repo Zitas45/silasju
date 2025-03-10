@@ -18,7 +18,6 @@
                     Fürstenstraße 22J <br>
                     12207 Berlin</li>
                     <li> <strong>E-Mail:</strong><a style="color: black; text-decoration: none;" href="mailto:silasjunicke@googlemail.com"> silasjunicke@googlemail.com</li></a>
-                    <li><strong>Telefon:</strong><a style="color: black; text-decoration: none;" href="tel:+4915204284747"> +4915204284747</a></li>
                 </ul>
             </div>
             <h2>Akademische Ausbildung</h2>
