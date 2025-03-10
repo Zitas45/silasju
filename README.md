@@ -12,12 +12,6 @@
             <div style="border: 3px double rgb(18, 57, 83); max-width: 19%;">
                 <ul>
                     <li><strong>Name:</strong> Silas Junicke</li>
-                    <li><strong>Geburtsdatum</strong>: 18.06.1998</li>
-                    <li><strong>Geburtsort:</strong> Berlin, Deutschland</li>
-                    <li><strong>Adresse:</strong> <br>
-                    Fürstenstraße 22J <br>
-                    12207 Berlin</li>
-                    <li> <strong>E-Mail:</strong><a style="color: black; text-decoration: none;" href="mailto:silasjunicke@googlemail.com"> silasjunicke@googlemail.com</li></a>
                 </ul>
             </div>
             <h2>Akademische Ausbildung</h2>
